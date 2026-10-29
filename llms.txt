@@ -1,0 +1,13 @@
+# Home
+
+## Pages
+
+- [Home](https://om-javheri.github.io/beyondirr-temp/)
+- [BeyondIRR](https://om-javheri.github.io/beyondirr-temp/about/)
+- [BeyondIRR](https://om-javheri.github.io/beyondirr-temp/pricing/)
+- [BeyondIRR](https://om-javheri.github.io/beyondirr-temp/resources/)
+- [Login with OTP](https://om-javheri.github.io/beyondirr-temp/login/otp/): Exceed Client Expectations, Deliver Highest Quality Insights
+- [Sign up](https://om-javheri.github.io/beyondirr-temp/signup/): Exceed Client Expectations, Deliver Highest Quality Insights
+- [BeyondIRR](https://om-javheri.github.io/beyondirr-temp/client-engagement/)
+- [Login](https://om-javheri.github.io/beyondirr-temp/login/username/): Exceed Client Expectations, Deliver Highest Quality Insights
+- [Create / Reset Password](https://om-javheri.github.io/beyondirr-temp/forget-password/): Exceed Client Expectations, Deliver Highest Quality Insights
